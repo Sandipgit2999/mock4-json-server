@@ -17,7 +17,7 @@
         "genre": "science",
         "edition": "2021",
         "publisher": "Bloomsbury",
-        "cost": 1299,
+        "cost": 12,
         "borrowed": false
       },
       {
@@ -27,7 +27,7 @@
         "genre": "history",
         "edition": "2021",
         "publisher": "Bloomsbury",
-        "cost": 1299,
+        "cost": 11299,
         "borrowed": false
       },
       {
@@ -37,7 +37,7 @@
         "genre": "business",
         "edition": "2021",
         "publisher": "Bloomsbury",
-        "cost": 1299,
+        "cost": 12,
         "borrowed": false
       }
     ]
